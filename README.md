@@ -150,3 +150,11 @@ git push origin название-текущей-ветки
 <p align="center">
 <img src="https://user-images.githubusercontent.com/85391921/216135923-48cd586f-c4a5-48e9-b304-c6f4b71acf1f.png"/>
 </p>
+
+# don't forget
+
+```
+git add -A
+git commit -m "commit"
+git push origin name-branch
+```
