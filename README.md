@@ -51,6 +51,17 @@ As a result, a new SSH key is created, linked to your email
 </p>
 
 
+## Add SSH key to ssh-agent
+
+```
+eval "$(ssh-agent -s)"
+```
+
+```
+ssh-add ~/.ssh/id_ed25519
+```
+
+
 ## Copying the SSH key
 
 ```
